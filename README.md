@@ -34,8 +34,10 @@ Currently, I have completed the programs from **Day 1** and **Day 2** of the ass
 
 ## 📂 Repository Structure
 
+```text
 Day-1/
 Day-2/
+```
 
 ---
 
