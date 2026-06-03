@@ -2,7 +2,7 @@
 
 This repository contains my C++ solutions for the **Summer Vacation Self Learning Assignments** provided by **GL Bajaj Institute of Technology and Management**.
 
-Currently, I have completed the programs from **Day 1** and **Day 2** of the assignment.
+Currently, I have completed the programs from **Day 1** to **Day 4** of the assignment.
 
 ---
 
@@ -30,6 +30,20 @@ Currently, I have completed the programs from **Day 1** and **Day 2** of the ass
 * Product of digits
 * Palindrome number
 
+### Day 3
+
+* Check prime number
+* Prime numbers in a range
+* GCD of two numbers
+* LCM of two numbers
+
+### Day 4
+
+* Fibonacci series
+* Armstrong number
+* Armstrong numbers in a range
+* Perfect number
+
 ---
 
 ## 📂 Repository Structure
@@ -37,6 +51,8 @@ Currently, I have completed the programs from **Day 1** and **Day 2** of the ass
 ```text
 Day-1/
 Day-2/
+Day-3/
+Day-4/
 ```
 
 ---
