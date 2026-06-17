@@ -1,10 +1,8 @@
 # Summer Vacation Self Learning Assignments
 
-This repository contains my C++ solutions for the **Summer Vacation Self Learning Assignments** provided by **GL Bajaj Institute of Technology and Management**.
+This repository contains my C++ solutions for the Summer Vacation Self Learning Assignments provided by GL Bajaj Institute of Technology and Management.
 
-Currently, I have completed the programs from **Day 1** to **Day 4** of the assignment.
-
----
+Currently, I have completed the programs from **Day 1 to Day 15** of the assignment.
 
 ## 🛠 Language Used
 
@@ -12,50 +10,58 @@ Currently, I have completed the programs from **Day 1** to **Day 4** of the assi
 * GNU G++ Compiler
 * VS Code
 
----
-
 ## 📚 Topics Covered
 
-### Day 1
+### Basic Programming
 
-* Sum of first N natural numbers
-* Multiplication table
-* Factorial of a number
-* Count digits in a number
+* Loops
+* Conditional Statements
+* Number-Based Problems
 
-### Day 2
+### Mathematical Programs
 
-* Sum of digits
-* Reverse a number
-* Product of digits
-* Palindrome number
+* Prime Numbers
+* GCD and LCM
+* Fibonacci Series
+* Armstrong Numbers
+* Perfect Numbers
+* Strong Numbers
+* Number System Conversions
 
-### Day 3
+### Recursion
 
-* Check prime number
-* Prime numbers in a range
-* GCD of two numbers
-* LCM of two numbers
+* Recursive Factorial
+* Recursive Fibonacci
+* Recursive Sum of Digits
+* Recursive Reverse Number
 
-### Day 4
+### Pattern Printing
 
-* Fibonacci series
-* Armstrong number
-* Armstrong numbers in a range
-* Perfect number
+* Star Patterns
+* Number Patterns
+* Character Patterns
+* Pyramid Patterns
 
----
+### Functions
 
-## 📂 Repository Structure
+* User Defined Functions
+* Prime Check
+* Factorial
+* Fibonacci
+* Armstrong Number
+* Perfect Number
 
-```text
-Day-1/
-Day-2/
-Day-3/
-Day-4/
-```
+### Arrays
 
----
+* Array Traversal
+* Sum and Average
+* Largest and Smallest Element
+* Linear Search
+* Frequency Count
+* Duplicate Elements
+* Array Rotation
+* Reverse Array
+* Move Zeroes to End
 
 ## 🎯 Objective
 
@@ -64,10 +70,13 @@ The purpose of this assignment is to improve:
 * Problem-solving skills
 * Logic building
 * Understanding of C++ fundamentals
-* Coding practice for placements
-
----
+* Coding practice
+* Consistency in daily programming practice
 
 ## 👩‍💻 Author
 
 **Ishani Daga**
+
+B.Tech (Computer Science and Data Science)
+
+GL Bajaj Institute of Technology and Management
